@@ -58,7 +58,7 @@ Hi, I'm Hussain an AI Engineering student. I work on building custom AI software
 
 ## Projects
 
-### 🔍 Vehicle Data Extraction & Price Prediction
+### 🔍 AuctionSense — Vehicle Data Extraction & Price Prediction
 `Python` `XGBoost` `EasyOCR` `OpenCV` `Selenium`
 
 Scraped 2,000+ Honda Fit auction listings and engineered a spatially-aware OCR engine to extract condition grades and damage codes from Japanese auction sheets across 10+ layout variants. Built a two-stage XGBoost pipeline predicting auction sale probability and final JPY price — applied directly to 50+ monthly sourcing decisions in live trade operations.
