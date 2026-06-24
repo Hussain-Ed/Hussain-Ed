@@ -14,7 +14,7 @@
 
 ## About
 
-Hi, I'm Hussain — an AI Engineering student at DUET, Karachi. I work on building custom AI software specializing in generating end-to-end ML pipelines. Current fields of interest are Deep Learning, RAG and Computer Vision. Currently working on **AuctionSense** a Japanese vehicle auction price prediction system and **Ustad**, an agentic Socratic tutoring system for Pakistani SSC/HSC students built on LangGraph and RAG. I am also working on various Computer Vision projects and will be updating this profile as they progress.
+Hi, I'm Hussain an AI Engineering student. I work on building custom AI software specializing in generating end-to-end ML pipelines. Current fields of interest are Deep Learning, RAG and Computer Vision. Currently working on **AuctionSense** a Japanese vehicle auction price prediction system and **Ustad**, an agentic Socratic tutoring system for Pakistani SSC/HSC students built on LangGraph and RAG. I am also working on various Computer Vision projects and will be updating this profile as they progress.
 
 ---
 
