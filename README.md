@@ -1,15 +1,90 @@
-# 💫 About Me:
-I’m currently working on developing stateful multi-agent systems and B2B automation platforms.<br>I’m looking to collaborate on open-source AI tools, workflow automation, and RAG-based architectures.<br>I’m looking for help with scaling web scraping operations and optimizing data extraction pipelines.<br>I’m currently learning advanced LLM orchestration and real-time voice agent integration.<br>Ask me about AI engineering, international trade logistics, or building autonomous systems with Python.<br>
+# Hussain Shakoor
 
+<div align="center">
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Hussain-Ed&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Hussain-Ed&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Hussain-Ed&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**AI Engineer &nbsp;|&nbsp; Computer Vision &nbsp;|&nbsp; Machine Learning**
+
+[![Email](https://img.shields.io/badge/hussainshakoor186@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hussainshakoor186@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussain-shakoor-si/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Hussain-Ed)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Hussain-Ed&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
+
+Final-year AI Engineering student at DUET specializing in Computer Vision, ML pipelines, and AI-assisted development. I build end-to-end data systems — from OCR engines on Japanese auction sheets to real-time webcam inference. Currently working on **Ustad**, an agentic multimodal Socratic tutoring system for Pakistani SSC/HSC students.
+
+---
+
+## Tech Stack
+
+**Languages**&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**ML / DL**&nbsp;&nbsp;
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189A38?style=flat)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+**Computer Vision**&nbsp;&nbsp;
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat&logoColor=black)
+![EasyOCR](https://img.shields.io/badge/EasyOCR-333333?style=flat)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat)
+
+**Agentic / Backend**&nbsp;&nbsp;
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+**Data & Scraping**&nbsp;&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+
+**Tools**&nbsp;&nbsp;
+![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
+
+---
+
+## Projects
+
+### 🔍 Vehicle Data Extraction & Price Prediction
+`Python` `XGBoost` `EasyOCR` `OpenCV` `Selenium`
+
+Scraped 2,000+ Honda Fit auction listings and engineered a spatially-aware OCR engine to extract condition grades and damage codes from Japanese auction sheets across 10+ layout variants. Built a two-stage XGBoost pipeline predicting auction sale probability and final JPY price — applied directly to 50+ monthly sourcing decisions in live trade operations.
+
+---
+
+### 😐 Face Emotion Recognition — Live Webcam Overlay
+`TensorFlow` `Keras` `OpenCV` `MobileNetV2`
+
+Benchmarked 3 CNN architectures on FER-2013 (35,000+ images). MobileNetV2 achieved 69.2% validation accuracy and 0.68 weighted F1. Deployed as a live 24 FPS CPU demo with CLAHE preprocessing and a 20-frame stabilisation queue.
+
+---
+
+### 🎓 Ustad — Agentic Socratic Tutor *(FYP — In Progress)*
+`LangGraph` `RAG` `LanceDB` `FastAPI` `Qwen2.5`
+
+Multimodal agentic tutoring system for Pakistani SSC/HSC students. Four-agent LangGraph architecture (Orchestrator, Teaching, Critic, Memory) with RAG over curriculum content and dual online/offline inference modes.
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Hussain-Ed&theme=default&hide_border=true&include_all_commits=false&count_private=false)
+
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Hussain-Ed&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
