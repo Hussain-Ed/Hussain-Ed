@@ -1,6 +1,6 @@
 # Hussain Shakoor
 
-<div align="center">
+<div>
 
 **AI Engineer &nbsp;|&nbsp; Computer Vision &nbsp;|&nbsp; Machine Learning**
 
