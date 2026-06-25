@@ -1,6 +1,6 @@
 # Hussain Shakoor
 
-<div>
+<div align="center">
 
 **AI Engineer &nbsp;|&nbsp; Computer Vision &nbsp;|&nbsp; Machine Learning**
 
@@ -14,7 +14,7 @@
 
 ## About
 
-Hi, I'm Hussain an AI Engineering student. I work on building custom AI software specializing in generating end-to-end ML pipelines. Current fields of interest are Deep Learning, RAG and Computer Vision. Currently working on **AuctionSense** a Japanese vehicle auction price prediction system and **Ustad**, an agentic Socratic tutoring system for Pakistani SSC/HSC students built on LangGraph and RAG. I am also working on various Computer Vision projects and will be updating this profile as they progress.
+Hi, I'm Hussain — an AI Engineering student at DUET, Karachi. I work on building custom AI software: apps, websites, and prediction models, and I specialize in end-to-end ML pipelines. My fields of interest are Machine Learning and Computer Vision. Currently working on **AuctionSense** — a Japanese vehicle auction price prediction system — and **Ustad**, an agentic Socratic tutoring system for Pakistani SSC/HSC students built on LangGraph and RAG. I am also working on various Computer Vision projects and will be updating this profile as they progress.
 
 ---
 
@@ -31,6 +31,7 @@ Hi, I'm Hussain an AI Engineering student. I work on building custom AI software
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189A38?style=flat)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
 
 **Computer Vision**&nbsp;&nbsp;
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
@@ -46,6 +47,7 @@ Hi, I'm Hussain an AI Engineering student. I work on building custom AI software
 **Data & Scraping**&nbsp;&nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 
 **Tools**&nbsp;&nbsp;
@@ -58,7 +60,7 @@ Hi, I'm Hussain an AI Engineering student. I work on building custom AI software
 
 ## Projects
 
-### 🔍 AuctionSense — Vehicle Data Extraction & Price Prediction
+### 🔍 Vehicle Data Extraction & Price Prediction
 `Python` `XGBoost` `EasyOCR` `OpenCV` `Selenium`
 
 Scraped 2,000+ Honda Fit auction listings and engineered a spatially-aware OCR engine to extract condition grades and damage codes from Japanese auction sheets across 10+ layout variants. Built a two-stage XGBoost pipeline predicting auction sale probability and final JPY price — applied directly to 50+ monthly sourcing decisions in live trade operations.
