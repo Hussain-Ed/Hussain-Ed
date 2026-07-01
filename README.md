@@ -80,13 +80,3 @@ Benchmarked 3 CNN architectures on FER-2013 (35,000+ images). MobileNetV2 achiev
 Multimodal agentic tutoring system for Pakistani SSC/HSC students. Four-agent LangGraph architecture (Orchestrator, Teaching, Critic, Memory) with RAG over curriculum content and dual online/offline inference modes.
 
 ---
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Hussain-Ed&theme=default&hide_border=true&include_all_commits=false&count_private=false)
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Hussain-Ed&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
